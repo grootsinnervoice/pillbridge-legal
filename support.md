@@ -18,9 +18,8 @@ Share your Care Code (shown on your dashboard) with someone. They can enter it f
 **Can I export my data?**
 Data export is coming in a future update. In the meantime, email us and we'll help.
 
-**How do I delete my account?**
-Email us from the address on your account and we'll delete your account and all associated data.
-
+**Delete your account** directly from within the app. Go to Profile → scroll to the "Account" section → tap "Delete My Account." This permanently removes your account, medications, dose history, photos, and all care group connections. This action cannot be undone. You may also contact us at the email below for assistance with account deletion.
+  
 **How do I change my medication schedule?**
 Tap any medication on your dashboard to open its details, then tap "Edit Medication" to change the schedule, dosage, or reminders.
 
